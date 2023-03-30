@@ -1,0 +1,81 @@
+.link1 {
+	margin-left: 240px;
+}
+
+.links {
+	margin-top: 30px;
+	margin-left: 40px;
+}
+
+.power-up-your-team {
+	margin-top: 50px;
+}
+
+.power-up-your-team p {
+	margin-top: 30px;
+}
+
+.button1 {
+	border-radius: 20px;
+	font-size: 16px;
+	width: 150px;
+	margin-right: 20px;
+	padding: 10px;
+}
+
+.button1:hover {
+	background-color: pink;
+}
+
+.button2 {
+	border-radius: 20px;
+	font-size: 16px;
+	width: 150px;
+	border-color: black;
+	padding: 10px;
+}
+
+.button2:hover {
+	background-color: pink;
+}
+
+.img-under-nav {
+	margin-top: 50px;
+}
+
+.streamline-tasks {
+	margin-top: 100px;
+}
+
+.streamline-tasks img {
+	margin-top: 50px;
+}
+
+.control-how-your-team-gets-booked {
+	margin-top: 50px;
+}
+
+.solution {
+	margin-top: 50px;
+}
+
+.cards {
+	margin-bottom: 10px;
+	border-radius: 20px;
+}
+
+.easy-ahead {
+	margin-top: 30px;
+}
+
+.about p {
+	color: gray;
+}
+
+.solution p {
+	color: gray;
+}
+
+.popular-features p {
+	color: gray;
+}

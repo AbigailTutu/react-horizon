@@ -1,0 +1,39 @@
+.main-nav{
+    background-color: #eb969f!important;
+}
+
+.nav-brand {
+	padding-left: 70px;
+}
+
+.nav-links {
+	margin-left: 400px;
+}
+
+.jumbo {
+	height: 1000px;
+	background-image: url(https://thumbs.dreamstime.com/b/just-married-couple-hands-13685279.jpg);
+	background-attachment: fixed;
+}
+
+.jumbo-texts {
+	color: red;
+}
+
+.para {
+	margin-top: 20px;
+	color: red;
+	font-size: 30px;
+}
+
+.cards {
+	margin-bottom: 30px;
+}
+
+
+
+.footer {
+	background-color: #eb969f;
+	padding: 20px;
+}
+

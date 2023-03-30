@@ -1,0 +1,85 @@
+.main-container {
+	font-size: 20px;
+}
+
+.row1 {
+	background-color: gray;
+	height: 50px;
+	border: 0.5px solid black;
+}
+
+.row2 {
+	background-color: lightgray;
+	height: 50px;
+	border: 0.5px solid black;
+}
+
+.row3 {
+	background-color: lightgray;
+	height: 50px;
+	border: 0.5px solid black;
+}
+
+.row4 {
+	background-color: lightgray;
+	height: 50px;
+	border: 0.5px solid black;
+}
+
+.row5 {
+	background-color: lightgray;
+	height: 50px;
+	border: 0.5px solid black;
+}
+
+.row6 {
+	background-color: lightgray;
+	height: 50px;
+	border: 0.5px solid black;
+}
+
+.row2subs {
+	border: 0.5px solid black;
+}
+
+.row2sub4 {
+	background-color: orange;
+	border: 0.5px solid black;
+}
+
+.row3subs {
+	border: 0.5px solid black;
+}
+
+.row3sub4 {
+	background-color: orange;
+	border: 0.5px solid black;
+}
+
+.row4subs {
+	border: 0.5px solid black;
+}
+
+.row4sub4 {
+	background-color: orange;
+	border: 0.5px solid black;
+}
+
+.row5subs {
+	border: 0.5px solid black;
+}
+
+.row5sub4 {
+	background-color: orange;
+	border: 0.5px solid black;
+}
+
+.row6subs {
+	border: 0.5px solid black;
+}
+
+.row6sub3 {
+	background-color: orange;
+	border: 0.5px solid black;
+}
+

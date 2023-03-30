@@ -1,0 +1,72 @@
+.link1 {
+	margin-left: 240px;
+}
+
+.links {
+	margin-top: 30px;
+	margin-left: 40px;
+}
+
+.under-nav {
+	margin-top: 50px;
+}
+
+.under-nav p {
+	font-size: 20px;
+}
+
+.under-nav button {
+	border-radius: 50px;
+	width: 180px;
+	padding: 15px;
+}
+
+.under-nav button:hover {
+	background-color: blue;
+}
+
+.jumbo {
+	margin-top: 60px;
+	background-image: url(https://img.freepik.com/free-vector/lovely-grey-smooth-wave-lines-luxury-background_1017-39363.jpg?w=740&t=st=1670855848~exp=1670856448~hmac=a968828b5006fdbecdc88099b86663a98af1b329e10c06581a687dd726e31eb6);
+}
+
+.imgs {
+	margin-top: 50px;
+}
+
+.cards {
+	margin-top: 70px;
+}
+
+.cardss h3 {
+	margin-left: 20px;
+	color: blue;
+	padding-top: 20px;
+}
+
+.cardss {
+	border-radius: 30px;
+	background-color: lightgray;
+}
+
+.cardss p {
+	padding: 10px;
+	color: violet;
+	font-size: 15px;
+}
+
+.easy-ahead {
+	margin-top: 50px;
+}
+
+.about p {
+	color: gray;
+}
+
+.solution p {
+	color: gray;
+}
+
+.popular-features p {
+	color: gray;
+}
